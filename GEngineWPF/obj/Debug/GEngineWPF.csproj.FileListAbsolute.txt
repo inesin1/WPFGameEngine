@@ -1,0 +1,16 @@
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\MainWindow.g.cs
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\App.g.cs
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF_MarkupCompile.cache
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF_MarkupCompile.lref
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\bin\Debug\GEngineWPF.exe.config
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\bin\Debug\GEngineWPF.exe
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\bin\Debug\GEngineWPF.pdb
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\MainWindow.baml
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.g.resources
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.Properties.Resources.resources
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.exe
+C:\Users\artem\source\repos\GEngineWPF\GEngineWPF\obj\Debug\GEngineWPF.pdb
